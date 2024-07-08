@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.hero {
+    background-image: url("./assets/Image/Estonia_Tallinn_Lennusadam_05082020-4.jpg");  /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;  /* Adjust height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 4rem;  /* Adjust font size as needed */
+  }
+  
+  p {
+    margin: 0;
+  }
+  
