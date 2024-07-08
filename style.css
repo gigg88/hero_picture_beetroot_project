@@ -6,7 +6,7 @@
 }
 
 .hero {
-    background-image: url("./assets/Image/Estonia_Tallinn_Lennusadam_05082020-4.jpg");  /* Replace with your image URL */
+    background-image: url("./assets/Image/work-inside.jpg");  /* Replace with your image URL */
     background-size: cover;
     background-position: center;
     height: 100vh;  /* Adjust height as needed */
@@ -15,9 +15,12 @@
     align-items: center;
     color: white;
     font-size: 4rem;  /* Adjust font size as needed */
+    flex-direction: column;
+    font-weight: 900;
   }
   
   p {
     margin: 0;
   }
+
   
